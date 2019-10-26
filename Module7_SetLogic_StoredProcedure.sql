@@ -30,10 +30,10 @@ customerName,
 phone
 FROM customers
 WHERE customerNumber = custNum;
-END $$
-DELIMITER;
+END$$
+DELIMITER ;
 
--- USING A STORED PROCEDURE
+-- USE A STORED PROCEDURE
 
 CALL CustomerPhoneProcedure(103);
 
