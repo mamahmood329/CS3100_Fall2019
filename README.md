@@ -1,2 +1,6 @@
 # CS3100
-Course materials for CS3100: Database Programming &amp; Design
+Database Design & Programming
+
+This is the GitHub repository for CS 3100: Database Design & Programming at Rockhurst University.
+
+Codes from class lectures are located here.
